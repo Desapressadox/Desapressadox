@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Desapressadox
-- 👀 I code in Python.
-- 🌱 I’m currently learning Reverse Engineering and Assembly
+- 👋 Hi, I’m Desapressado
 - 📫 How to reach me: [Email](mailto:desapressado@ctemplar.com) or [Discord](https://discord.com/users/646783301020942337)
-<img src="https://discord.c99.nl/widget/theme-4/646783301020942337.png">
